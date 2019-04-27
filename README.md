@@ -1,4 +1,4 @@
 # Mentorias
-## Franco Paludi 
-## Gabriel Montoya
-## Franco Zacco
+### * Franco Paludi 
+### * Gabriel Montoya
+### * Franco Zacco
